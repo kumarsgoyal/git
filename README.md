@@ -28,13 +28,23 @@ To get started with this guide, you can:
 
 ### Topics Covered
 
-- Initializing a repository.
-- Staging and committing changes.
-- Branching and merging.
-- Resolving merge conflicts.
-- Working with remote repositories.
-- Undoing changes and managing stashes.
-- Tagging commits and more.
+1. [Terminology](01-terminology.md)  
+   Learn the basic Git terminology to understand how Git operates.
+
+2. [Git Behind the Scenes](02-git-behind-the-scenes.md.md)  
+   Explore how Git manages data and versions internally.
+
+3. [Branched in Git](03-branched-in-git.md)  
+   Understand how branching works and why it's powerful.
+
+4. [Diff, Stash, and Tags](04-diff-stash-and-tags.md)  
+   Learn how to compare changes, save work-in-progress, and use tags.
+
+5. [Rebase and Reflog](05-rebase-and-reflog.md)  
+   Dive into advanced Git workflows and recovery options.
+
+6. [Getting Started with GitHub](06-getting-started-with-Github.md)  
+   Set up GitHub and push your local repository to remote.
 
 ---
 
